@@ -1,5 +1,5 @@
 /**
- * @name Dark Matter
+ * @name Croc_cat
  * @author Tropical#8908, Hammock#3110
  * @version 3.0.0
  * @description A cold, dark & frosty theme.
@@ -11,7 +11,7 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://i.imgur.com/nmiNOEb.jpg');
+    --background-image: url('https://i.imgur.com/nmiNOEb.png');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
